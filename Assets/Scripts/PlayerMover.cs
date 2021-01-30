@@ -39,6 +39,6 @@ public class PlayerMover : MonoBehaviour
 
     void FixedUpdate()
     {
-        myRigidbody.AddForce(input * runSpeed);
+        myRigidbody.AddForce(input * runSpeed * Time.fixedDeltaTime);
     }
 }
