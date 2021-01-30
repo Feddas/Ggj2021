@@ -21,3 +21,12 @@
 # Custom
 /zipStruct/*
 DontCommit*
+
+# Files that should be referenced in manifest.json
+/Packages/*/*
+!/Packages/manifest.json
+!/Packages/*/package.json
+
+# LFS
+/Assets/Art/**/*.*
+!/Assets/Art/**/*.meta
