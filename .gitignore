@@ -20,7 +20,9 @@
 
 # Custom
 /zipStruct/*
-DontCommit*
+
+# Match directories anywhere in the repository
+**/DontCommit/*
 
 # Files that should be referenced in manifest.json
 /Packages/*/*

@@ -1,6 +1,9 @@
 # Game
 
 Play at https://feddas.itch.io/ggj2021
+or at https://play.unity.com/mg/other/ggj2021-lost-and-found
+
+[GameDesign.md](GameDesign.md)
 
 # Tutorials Used
 
