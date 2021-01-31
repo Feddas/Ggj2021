@@ -1,25 +1,13 @@
 fileFormatVersion: 2
-guid: 97cc314b017490f4fa13aee42fca8279
+guid: 22b637b2476cdae45adaae732f09bf0a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6162929618059290585
-    second: MiaFrontIdle
+      213: -5970431565347096850
+    second: Veronica
   - first:
-      213: -2417951629378943420
-    second: MiaWalkFront_1
-  - first:
-      213: 5936602773318334001
-    second: MiaWalkFront_0
-  - first:
-      213: 4999697448570971377
-    second: MiaWalkBack_0
-  - first:
-      213: 1244485334833486412
-    second: MiaWalkBack_1
-  - first:
-      213: -4665203916777840433
-    second: MiaMic
+      213: 3128868858686109018
+    second: VeronicaMic
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -101,32 +89,23 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MiaFrontIdle
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 64
-        width: 18
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 72897db3a20e87aa0800000000000000
-      internalID: -6162929618059290585
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiaWalkFront_1
+      name: Veronica
       rect:
         serializedVersion: 2
         x: 4
@@ -140,92 +119,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4468acecdc5b17ed0800000000000000
-      internalID: -2417951629378943420
+      spriteID: ee6f4bfbf14c42da0800000000000000
+      internalID: -5970431565347096850
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MiaWalkFront_0
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 32
-        width: 18
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 136fc34d4cc036250800000000000000
-      internalID: 5936602773318334001
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiaWalkBack_0
+      name: VeronicaMic
       rect:
         serializedVersion: 2
         x: 4
         y: 0
-        width: 18
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1f4ef76075e726540800000000000000
-      internalID: 4999697448570971377
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiaWalkBack_1
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 0
-        width: 18
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c4adee681dc454110800000000000000
-      internalID: 1244485334833486412
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MiaMic
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 64
         width: 19
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc022b741cdd14fb0800000000000000
-      internalID: -4665203916777840433
+      spriteID: a5574c646a9fb6b20800000000000000
+      internalID: 3128868858686109018
       vertices: []
       indices: 
       edges: []
