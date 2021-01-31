@@ -23,6 +23,12 @@ public class FadeColor : MonoBehaviour
         StartCoroutine(fade());
     }
 
+    public void StartFadeInSeconds(float seconds)
+    {
+        FadeInSeconds = seconds;
+        StartFade();
+    }
+
     private IEnumerator fade()
     {
         Color startColor = Target.color;
